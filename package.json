@@ -1,0 +1,19 @@
+{
+  "name": "apiarchitecture",
+  "version": "1.0.0",
+  "description": "NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KewinLizarraga/apiArchitecture.git"
+  },
+  "author": "Kewin LM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KewinLizarraga/apiArchitecture/issues"
+  },
+  "homepage": "https://github.com/KewinLizarraga/apiArchitecture#readme"
+}
